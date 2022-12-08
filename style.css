@@ -1,0 +1,15 @@
+body {
+    background: linear-gradient(to right, rgb(120, 140, 239), rgb(238, 212, 150));
+} 
+h3 {
+    font-style: italic
+}
+h1, h2 {
+    text-decoration: underline
+}
+ol, ul {
+    color: rgb(249, 245, 8);
+}
+img {
+    border: 5px solid rgb(238, 212, 150);
+   }
